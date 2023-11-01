@@ -1,0 +1,14 @@
+F:\GB\Start C#\Практика\Start_C#_HW2\bin\Debug\net6.0\Start_C#_HW2.exe
+F:\GB\Start C#\Практика\Start_C#_HW2\bin\Debug\net6.0\Start_C#_HW2.deps.json
+F:\GB\Start C#\Практика\Start_C#_HW2\bin\Debug\net6.0\Start_C#_HW2.runtimeconfig.json
+F:\GB\Start C#\Практика\Start_C#_HW2\bin\Debug\net6.0\Start_C#_HW2.dll
+F:\GB\Start C#\Практика\Start_C#_HW2\bin\Debug\net6.0\Start_C#_HW2.pdb
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.AssemblyInfoInputs.cache
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.AssemblyInfo.cs
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.csproj.CoreCompileInputs.cache
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.dll
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\refint\Start_C#_HW2.dll
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.pdb
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\Start_C#_HW2.genruntimeconfig.cache
+F:\GB\Start C#\Практика\Start_C#_HW2\obj\Debug\net6.0\ref\Start_C#_HW2.dll
