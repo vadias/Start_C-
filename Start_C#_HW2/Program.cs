@@ -42,6 +42,7 @@ namespace Start_C__HW2
                 }
             }
 
+            /* переводим в одномерный массив */
             for (int x = 0; x <= 2; x++)
             {
                 for (int y = 0; y <= 2; y++)
@@ -52,6 +53,7 @@ namespace Start_C__HW2
 
             }
 
+            /* сортируем одномерный массив */
             for (int i = 0; i < myArray.Length; i++)
             {
                 for (int j = i + 1; j < myArray.Length; j++)
@@ -65,10 +67,7 @@ namespace Start_C__HW2
                 }
             }
 
-
-
-
-
+            /* переводим в двумерный массив */
             for (int c = 0; c < myArray.Length; c++)
             {
                 a[tempy, tempx] = myArray[c];
